@@ -3525,6 +3525,7 @@ li.parsley-required, #contact_send_status {
     top: 0;
     bottom: 0;
     /* margin: auto; */
+    height: 100%;
 }
 .petcare-slider .item-one {
     /* background-image: url(../../assets/img/home-four/petro-slider.jpg); */
