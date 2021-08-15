@@ -710,7 +710,7 @@ hr {
 .main-menu-area-two .navbar-light .navbar-nav > .active > a:focus, 
 .main-menu-area-two .navbar-light .navbar-nav > .active > a:hover {
 	color: #fff !important;
-	background-color: #3A3A3A;
+	background-color: #360256;
 }
 .main-menu-area-two .navbar-nav > li > a:focus, 
 .main-menu-area-two .navbar-nav > li > a:hover {
@@ -3482,7 +3482,7 @@ li.parsley-required, #contact_send_status {
 }
 .petcare-slider.owl-carousel .owl-controls .owl-nav .owl-next {
     position: absolute;
-    background: #0a68b1;
+    background: #360256;
     right: 0;
     top: 0;
     bottom: 0;
@@ -3499,7 +3499,7 @@ li.parsley-required, #contact_send_status {
 }
 .petcare-slider.owl-carousel .owl-controls .owl-nav .owl-prev {
     position: absolute;
-    background: #0a68b1;
+    background: #360256;
     left: 0;
     top: 0;
     bottom: 0;
@@ -3515,7 +3515,7 @@ li.parsley-required, #contact_send_status {
     color: #fff;
 }
 .petcare-slider.owl-carousel .owl-controls .owl-nav .owl-prev:hover,.petcare-slider.owl-carousel .owl-controls .owl-nav .owl-next:hover {
-    background: #082b49;
+    background: #fb8803;
 }
 .petcare-slider .single-petcare-slider img {
     position: absolute;
@@ -4667,7 +4667,7 @@ button.btn.btn-primary.submit-btn:hover {
     border: 0;
 }
 .cms-button-primary, #sticky .phone a, .callBtn .phone a, input[type="submit"] {
-    background: #3956a4;
+    background: #360256;
 }
 .cms-button-primary, #sticky .phone a, .callBtn .phone a, .cms-button-secondary, .wellnessPlans .planDetails .cms-button-text, .cms-button-alert, .cms-button-success, input[type="submit"], input[type="reset"], input[value="Reset Password"] {
     border-radius: 500px;
@@ -4694,7 +4694,7 @@ button.btn.btn-primary.submit-btn:hover {
     margin-bottom: 0.3125rem;
 }
 .cms-button-alert {
-    background: #ef3f3f;
+    background: #fb8803;
 }
 .cms-button-primary, #sticky .phone a, .callBtn .phone a, .cms-button-secondary, .wellnessPlans .planDetails .cms-button-text, .cms-button-alert, .cms-button-success, input[type="submit"], input[type="reset"], input[value="Reset Password"] {
     border-radius: 500px;
