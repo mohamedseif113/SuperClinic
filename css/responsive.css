@@ -222,8 +222,8 @@
     /* Home v4 style */
     .petcare-slider .single-petcare-slider {
         height: 100%;
-        padding-top: 200px;
-        padding-bottom: 172px;
+        /* padding-top: 200px; */
+        /* padding-bottom: 172px; */
     }
     .petcare-slider .p-slide-item h1 {
         font-size: 35px;
