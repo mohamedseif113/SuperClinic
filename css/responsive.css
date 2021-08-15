@@ -15,7 +15,11 @@
         text-align: center;
         margin-bottom: 15px;
     }
-    .swiper-slide {
+#topbar .columns:last-child {
+    padding-right: 0;
+    margin-left: unset;
+}
+	.swiper-slide {
         height: 400px;
     }
     .swiper-slide h1 {
