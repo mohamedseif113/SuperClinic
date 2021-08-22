@@ -2678,10 +2678,15 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
   text-transform: uppercase;
 }
 .footer-top-area a:hover {
-    /* color: #15aa19; */
+    /* color: #360256; */
 }
 .footer-wid {
     padding: 0 0 40px;
+}
+.footer-wid img {
+width : auto;
+height : 80px;
+background-color: #fff
 }
 .footer-wid-title {
   color: #e1e1e1;
@@ -3411,7 +3416,7 @@ li.parsley-required, #contact_send_status {
     vertical-align: middle;
 }
 .custom-btn1 {
-    background: #0a68b1;
+    background: #360256;
     font-size: 14px;
     font-weight: 600;
     color: #ffff;
@@ -3451,7 +3456,7 @@ li.parsley-required, #contact_send_status {
 }
 .pc-section-title span {
     font-size: 18px;
-    color: #0a68b1;
+    color: #360256;
     text-transform: capitalize;
 }
 .pc-section-title h3 {
@@ -3561,7 +3566,7 @@ li.parsley-required, #contact_send_status {
     background: #f9fafb;
 }
 .pet-about-top-card .single-pet-ab-card {
-    background-color: #0a68b1;
+    background-color: #360256;
     padding: 35px 25px;
     text-align: center;
     position: relative;
@@ -3649,7 +3654,7 @@ li.parsley-required, #contact_send_status {
     display: flex;
 }
 .pc-about-main .single-pc-about .pc-points-wrap .pc-point .pc-point-tx i {
-    color: #0a68b1;
+    color: #360256;
 }
 .pc-about-main .single-pc-about .pc-points-wrap .pc-point .pc-point-tx i::before {
     font-size: 15px;
@@ -3657,7 +3662,7 @@ li.parsley-required, #contact_send_status {
 }
 .pc-about-main .single-pc-about .pc-points-wrap .pc-point .pc-point-tx p {
     font-size: 16px;
-    color: #0a68b1;
+    color: #360256;
     font-weight: 400;
     text-transform: capitalize;
     margin-bottom: 10px;
@@ -3804,7 +3809,7 @@ li.parsley-required, #contact_send_status {
     display: flex;
 }
 .pc-choose-section .single-choose2 .choose-box .icon i {
-    color: #0a68b1;
+    color: #360256;
     line-height: 1;
 }
 .pc-choose-section .single-choose2 .choose-box .icon i:before {
@@ -3918,7 +3923,7 @@ li.parsley-required, #contact_send_status {
 .pc-services-section .single-pc-service .service-pc-text h4 {
     font-size: 16px;
     font-weight: 600;
-    color: #0a68b1;
+    color: #360256;
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 0;
@@ -3954,7 +3959,7 @@ li.parsley-required, #contact_send_status {
     font-size: 12px;
 }
 .pc-services-section .single-pc-service .s-icon a:hover {
-    background: #0a68b1;
+    background: #360256;
     color: #ffff;
 }
 .pc-services-section .single-pc-service .s-icon i::before {
@@ -3968,7 +3973,7 @@ li.parsley-required, #contact_send_status {
 }
 .pc-services-section .owl-carousel .owl-controls .owl-nav .owl-prev {
     position: absolute;
-    background: #0a68b1;
+    background: #fb8803;
     left: -45px;
     top: 0;
     bottom: 0;
@@ -3985,7 +3990,7 @@ li.parsley-required, #contact_send_status {
 }
 .pc-services-section .owl-carousel .owl-controls .owl-nav .owl-next {
     position: absolute;
-    background: #0a68b1;
+    background: #fb8803;
     right: -44px;
     top: 0;
     bottom: 0;
@@ -4034,7 +4039,7 @@ li.parsley-required, #contact_send_status {
     font-size: 30px;
 }
 .pc-gallery-section .gallery-image .pc-gallery-hover i:hover {
-    color: #0a68b1;
+    color: #360256;
 }
 .pc-gallery-section .gallery-image:hover .pc-gallery-hover {
     transform: scale(1);
@@ -4081,7 +4086,7 @@ li.parsley-required, #contact_send_status {
     right: 0;
 }
 .pc-team-section .pc-tm-hover .tm-scl-list ul {
-    background: #0a68b1;
+    background: #360256;
     padding: 5px 15px;
     display: inline-block;
     border-radius: 5px 0;
@@ -4118,7 +4123,7 @@ li.parsley-required, #contact_send_status {
     margin-bottom: 30px;
 }
 .pc-team-section .single-team2 span {
-    color: #0a68b1;
+    color: #360256;
 }
 .pc-team-section .single-team2 p {
     font-size: 16px;
@@ -4277,7 +4282,7 @@ li.parsley-required, #contact_send_status {
 .pc-testimonials-section .pc-single-testimonial {
     background: #ffff;
     padding: 60px 20px;
-    border-left: 6px solid #0a68b1;
+    border-left: 6px solid #360256;
     position: relative;
 }
 .pc-testimonials-section .pc-single-testimonial::before {
@@ -4321,7 +4326,7 @@ li.parsley-required, #contact_send_status {
 }
 .pc-testimonials-section .owl-carousel .owl-controls .owl-nav .owl-prev, .pc-testimonials-section .owl-carousel .owl-controls .owl-nav .owl-next {
     background: #ffff;
-    color: #0a68b1;
+    color: #360256;
     border-radius: 0;
     padding: 0;
     width: 45px;
@@ -4331,7 +4336,7 @@ li.parsley-required, #contact_send_status {
     justify-content: center;
 }
 .pc-testimonials-section .owl-carousel .owl-controls .owl-nav .owl-prev:hover, .pc-testimonials-section .owl-carousel .owl-controls .owl-nav .owl-next:hover {
-    background: #0a68b1;
+    background: #360256;
     color: #ffff;
 }
 /*
@@ -4342,7 +4347,7 @@ li.parsley-required, #contact_send_status {
     padding: 0px 0px;
 }
 .pc-contact-section .single-contact .contact-form .con-head {
-    background: #0a68b1;
+    background: #360256;
     text-align: center;
     padding: 30px 0;
 }
@@ -4384,7 +4389,7 @@ li.parsley-required, #contact_send_status {
     border: none;
 }
 .pc-contact-section .single-contact .contact-form .form-inline .submit-btn {
-    background: #0a68b1;
+    background: #360256;
     border: none;
     margin: auto;
     padding: 10px 30px;
