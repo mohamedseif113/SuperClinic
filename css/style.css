@@ -4725,7 +4725,7 @@ button.btn.btn-primary.submit-btn:hover {
 
 .theme-modal {
   padding-right: 0 !important; }
-  .theme-modal .modal-dialog .modal-content .modal-body {background-image: url(../images/pattern-2.png);background-size : cover;background-repeat: no-repeat;background-position : bottom;/* background-size: 36.77px 36.77px; *//* background-color: #f8f9fa; */}
+  .theme-modal .modal-dialog .modal-content .modal-body {background-image: url(../img/pattern-2.png);background-size : cover;background-repeat: no-repeat;background-position : bottom;/* background-size: 36.77px 36.77px; *//* background-color: #f8f9fa; */}
     .theme-modal .modal-dialog .modal-content .modal-body .modal-bg {
       /* background-color: #ffffff; */
       padding: 45px;
