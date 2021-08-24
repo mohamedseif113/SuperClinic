@@ -549,6 +549,9 @@ $(function() {
     });
 });
         </script> -->
+    
+   
+    
     <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
@@ -579,7 +582,25 @@ $(function() {
     <script src="js/jarallax.min.js"></script>
 
     <script src="js/parsley.min.js"></script>
+
+    <script src="js/active.js"></script>
+    
+  
 <script>
+    $(window).on('load', function() {
+        $('#exampleModal').modal('show');
+    });
+
+    function openSearch() {
+        document.getElementById("search-overlay").style.display = "block";
+    }
+
+    function closeSearch() {
+        document.getElementById("search-overlay").style.display = "none";
+    }
+</script>
+
+    <script>
 
 $(function() {
     $.exitIntent('enable');
@@ -604,10 +625,8 @@ $(function() {
         return false;
     });
 });
-    </script>
-    <script src="js/active.js"></script>
-    
-   
+        </script>
+
 
 
 </body>
